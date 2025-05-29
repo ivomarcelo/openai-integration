@@ -14,7 +14,7 @@ import {
   Select,
   MenuItem
 } from '@mui/material';
-import { Send, Settings } from '@mui/icons-material';
+import { Send } from '@mui/icons-material';
 
 function App() {
   const [prompt, setPrompt] = useState('');
